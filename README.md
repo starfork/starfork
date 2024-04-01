@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Starfork</h1>
 <h3 align="center">A full stack and AI developer, architect</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starfork&rank=SSS,SS,S,AAA,AA,A,B,C" alt="starfork" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starfork&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="starfork" /></a> </p>
 
 
  
